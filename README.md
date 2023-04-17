@@ -1,4 +1,4 @@
-# scannerip_mt
+# Scanner IP Multi-Thread
 ### A multi-thread python IPv4 port scanner.
 
 ![Scanp](images/portscan.png)
