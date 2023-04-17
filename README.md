@@ -13,7 +13,9 @@ python3 scannerip_mt.py <ip_address> <startPort> <endPort>
 ```
 Example:
 ```
-./scannerip_mt.py 192.168.1.1 22 500
+./scannerip_mt.py 192.168.1.1 22 4000
+
+python3 192.168.1.1 22 4000
 ```
 Assign execute permissions before use:
 ```
